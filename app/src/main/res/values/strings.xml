@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PruebaAsyncTask</string>
+    <string name="launch_async">Ejecutar AsyncTask</string>
+</resources>
